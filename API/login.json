@@ -1,0 +1,4395 @@
+{
+    "PlanNum": 39,
+    "message": "Login successfully",
+    "plan": [
+        {
+            "PlanID": 1,
+            "PlanName": "test01",
+            "UID": 1,
+            "Time": "2022-07-23T00:00:00Z",
+            "Events": [
+                {
+                    "EventID": 1,
+                    "PlanID": 1,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 2,
+                    "PlanID": 2,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 3,
+                    "PlanID": 3,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 4,
+                    "PlanID": 4,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 5,
+                    "PlanID": 5,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 6,
+                    "PlanID": 6,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 7,
+                    "PlanID": 7,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 8,
+                    "PlanID": 8,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 8,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 8,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 8,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 8,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 8,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 8,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 8,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 8,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 8,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 9,
+                    "PlanID": 9,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 9,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 9,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 9,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 9,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 9,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 9,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 9,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 9,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 9,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 10,
+                    "PlanID": 10,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 10,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 10,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 10,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 10,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 10,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 10,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 10,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 10,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 10,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 11,
+                    "PlanID": 11,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 11,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 11,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 11,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 11,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 11,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 11,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 11,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 11,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 11,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 12,
+                    "PlanID": 12,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 12,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 12,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 12,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 12,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 12,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 12,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 12,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 12,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 12,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 13,
+                    "PlanID": 13,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 13,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 13,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 13,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 13,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 13,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 13,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 13,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 13,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 13,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 14,
+                    "PlanID": 14,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 14,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 14,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 14,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 14,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 14,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 14,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 14,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 14,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 14,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 15,
+                    "PlanID": 15,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 15,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 15,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 15,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 15,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 15,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 15,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 15,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 15,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 15,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 16,
+                    "PlanID": 16,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 16,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 16,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 16,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 16,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 16,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 16,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 16,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 16,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 16,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 17,
+                    "PlanID": 17,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 17,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 17,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 17,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 17,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 17,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 17,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 17,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 17,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 17,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 18,
+                    "PlanID": 18,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 18,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 18,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 18,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 18,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 18,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 18,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 18,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 18,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 18,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 19,
+                    "PlanID": 19,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 19,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 19,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 19,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 19,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 19,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 19,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 19,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 19,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 19,
+                            "Description": "performers"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 19,
+            "Transportation": [
+                {
+                    "Duration": 12,
+                    "StartEvent": "",
+                    "EndEvent": ""
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 2,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 20,
+                    "PlanID": 20,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 20,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 20,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 20,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 20,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 20,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 20,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 20,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 20,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 20,
+                            "Description": "performers"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 1,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 3,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 21,
+                    "PlanID": 21,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 21,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 21,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 21,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 21,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 21,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 21,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 21,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 21,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 21,
+                            "Description": "performers"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 1,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 4,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 22,
+                    "PlanID": 22,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 22,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 22,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 22,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 22,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 22,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 22,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 22,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 22,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 22,
+                            "Description": "performers"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 1,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 5,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 23,
+                    "PlanID": 23,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 23,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 23,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 23,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 23,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 23,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 23,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 23,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 23,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 23,
+                            "Description": "performers"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 1,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 6,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 24,
+                    "PlanID": 24,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 24,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 24,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 24,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 24,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 24,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 24,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 24,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 24,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 24,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 25,
+                    "PlanID": 25,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": []
+                }
+            ],
+            "EventNum": 2,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 7,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 26,
+                    "PlanID": 26,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 26,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 26,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 26,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 26,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 26,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 26,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 26,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 26,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 26,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 27,
+                    "PlanID": 27,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": []
+                }
+            ],
+            "EventNum": 2,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 8,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 28,
+                    "PlanID": 28,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 28,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 28,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 28,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 28,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 28,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 28,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 28,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 28,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 28,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 29,
+                    "PlanID": 29,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": []
+                }
+            ],
+            "EventNum": 2,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 9,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 30,
+                    "PlanID": 30,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 30,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 30,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 30,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 30,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 30,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 30,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 30,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 30,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 30,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 31,
+                    "PlanID": 31,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": []
+                }
+            ],
+            "EventNum": 2,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 10,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 32,
+                    "PlanID": 32,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 32,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 32,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 32,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 32,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 32,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 32,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 32,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 32,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 32,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 33,
+                    "PlanID": 33,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": []
+                }
+            ],
+            "EventNum": 2,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 11,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 34,
+                    "PlanID": 34,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 34,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 34,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 34,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 34,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 34,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 34,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 34,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 34,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 34,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 35,
+                    "PlanID": 35,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": [
+                        {
+                            "EventID": 35,
+                            "Description": "fort"
+                        },
+                        {
+                            "EventID": 35,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 35,
+                            "Description": "york"
+                        },
+                        {
+                            "EventID": 35,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 35,
+                            "Description": "day"
+                        },
+                        {
+                            "EventID": 35,
+                            "Description": "dream"
+                        },
+                        {
+                            "EventID": 35,
+                            "Description": "23rd"
+                        },
+                        {
+                            "EventID": 35,
+                            "Description": "july"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 2,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 12,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 36,
+                    "PlanID": 36,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 36,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 36,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 36,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 36,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 36,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 36,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 36,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 36,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 36,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 37,
+                    "PlanID": 37,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": [
+                        {
+                            "EventID": 37,
+                            "Description": "fort"
+                        },
+                        {
+                            "EventID": 37,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 37,
+                            "Description": "york"
+                        },
+                        {
+                            "EventID": 37,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 37,
+                            "Description": "day"
+                        },
+                        {
+                            "EventID": 37,
+                            "Description": "dream"
+                        },
+                        {
+                            "EventID": 37,
+                            "Description": "23rd"
+                        },
+                        {
+                            "EventID": 37,
+                            "Description": "july"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 2,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 13,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 38,
+                    "PlanID": 38,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 38,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 38,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 38,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 38,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 38,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 38,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 38,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 38,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 38,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 39,
+                    "PlanID": 39,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": [
+                        {
+                            "EventID": 39,
+                            "Description": "fort"
+                        },
+                        {
+                            "EventID": 39,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 39,
+                            "Description": "york"
+                        },
+                        {
+                            "EventID": 39,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 39,
+                            "Description": "day"
+                        },
+                        {
+                            "EventID": 39,
+                            "Description": "dream"
+                        },
+                        {
+                            "EventID": 39,
+                            "Description": "23rd"
+                        },
+                        {
+                            "EventID": 39,
+                            "Description": "july"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 2,
+            "Transportation": [
+                {
+                    "Duration": 11.3,
+                    "StartEvent": "",
+                    "EndEvent": ""
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 14,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 40,
+                    "PlanID": 40,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "Beaches International Jazz Festival",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 40,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 40,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 40,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 40,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 40,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 40,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 40,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 40,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 40,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 41,
+                    "PlanID": 41,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "ALL DAY I DREAM",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": [
+                        {
+                            "EventID": 41,
+                            "Description": "fort"
+                        },
+                        {
+                            "EventID": 41,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 41,
+                            "Description": "york"
+                        },
+                        {
+                            "EventID": 41,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 41,
+                            "Description": "day"
+                        },
+                        {
+                            "EventID": 41,
+                            "Description": "dream"
+                        },
+                        {
+                            "EventID": 41,
+                            "Description": "23rd"
+                        },
+                        {
+                            "EventID": 41,
+                            "Description": "july"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 42,
+                    "PlanID": 42,
+                    "Link": "",
+                    "Title": "The Curtain Club",
+                    "StartTime": 12.09,
+                    "EndTime": 15.39,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "Potsdamer Platz 3, 10785 Berlin, Germany",
+                    "Venue": "",
+                    "EventTagDes": []
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 11.3,
+                    "StartEvent": "Beaches International Jazz Festival",
+                    "EndEvent": "ALL DAY I DREAM"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 15,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 43,
+                    "PlanID": 43,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "Beaches International Jazz Festival",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 43,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 43,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 43,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 43,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 43,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 43,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 43,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 43,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 43,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 44,
+                    "PlanID": 44,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "ALL DAY I DREAM",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": [
+                        {
+                            "EventID": 44,
+                            "Description": "fort"
+                        },
+                        {
+                            "EventID": 44,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 44,
+                            "Description": "york"
+                        },
+                        {
+                            "EventID": 44,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 44,
+                            "Description": "day"
+                        },
+                        {
+                            "EventID": 44,
+                            "Description": "dream"
+                        },
+                        {
+                            "EventID": 44,
+                            "Description": "23rd"
+                        },
+                        {
+                            "EventID": 44,
+                            "Description": "july"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 45,
+                    "PlanID": 45,
+                    "Link": "",
+                    "Title": "The Curtain Club",
+                    "StartTime": 12.09,
+                    "EndTime": 15.39,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "Potsdamer Platz 3, 10785 Berlin, Germany",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 45,
+                            "Description": "bar"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 11.3,
+                    "StartEvent": "Beaches International Jazz Festival",
+                    "EndEvent": "ALL DAY I DREAM"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 16,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 46,
+                    "PlanID": 46,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "Beaches International Jazz Festival",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 46,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 46,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 46,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 46,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 46,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 46,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 46,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 46,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 46,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 47,
+                    "PlanID": 47,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "ALL DAY I DREAM",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": [
+                        {
+                            "EventID": 47,
+                            "Description": "fort"
+                        },
+                        {
+                            "EventID": 47,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 47,
+                            "Description": "york"
+                        },
+                        {
+                            "EventID": 47,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 47,
+                            "Description": "day"
+                        },
+                        {
+                            "EventID": 47,
+                            "Description": "dream"
+                        },
+                        {
+                            "EventID": 47,
+                            "Description": "23rd"
+                        },
+                        {
+                            "EventID": 47,
+                            "Description": "july"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 48,
+                    "PlanID": 48,
+                    "Link": "",
+                    "Title": "The Curtain Club",
+                    "StartTime": 12.09,
+                    "EndTime": 15.39,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "Potsdamer Platz 3, 10785 Berlin, Germany",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 48,
+                            "Description": "bar"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 11.3,
+                    "StartEvent": "Beaches International Jazz Festival",
+                    "EndEvent": "ALL DAY I DREAM"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 17,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 49,
+                    "PlanID": 49,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "Beaches International Jazz Festival",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 49,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 49,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 49,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 49,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 49,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 49,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 49,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 49,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 49,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 50,
+                    "PlanID": 50,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "ALL DAY I DREAM",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": [
+                        {
+                            "EventID": 50,
+                            "Description": "fort"
+                        },
+                        {
+                            "EventID": 50,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 50,
+                            "Description": "york"
+                        },
+                        {
+                            "EventID": 50,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 50,
+                            "Description": "day"
+                        },
+                        {
+                            "EventID": 50,
+                            "Description": "dream"
+                        },
+                        {
+                            "EventID": 50,
+                            "Description": "23rd"
+                        },
+                        {
+                            "EventID": 50,
+                            "Description": "july"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 51,
+                    "PlanID": 51,
+                    "Link": "",
+                    "Title": "The Curtain Club",
+                    "StartTime": 12.09,
+                    "EndTime": 15.39,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "Potsdamer Platz 3, 10785 Berlin, Germany",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 51,
+                            "Description": "bar"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 11.3,
+                    "StartEvent": "Beaches International Jazz Festival",
+                    "EndEvent": "ALL DAY I DREAM"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 18,
+            "PlanName": "",
+            "UID": 1,
+            "Time": "2022-09-25T15:04:05Z",
+            "Events": [
+                {
+                    "EventID": 52,
+                    "PlanID": 52,
+                    "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+                    "Title": "Beaches International Jazz Festival",
+                    "StartTime": 8.3,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+                    "Cost": 0,
+                    "Address": "Woodbine Park, 1695 Queen St E;Toronto, ON, Canada",
+                    "Venue": "Woodbine Park",
+                    "EventTagDes": [
+                        {
+                            "EventID": 52,
+                            "Description": "music"
+                        },
+                        {
+                            "EventID": 52,
+                            "Description": "year"
+                        },
+                        {
+                            "EventID": 52,
+                            "Description": "jazz"
+                        },
+                        {
+                            "EventID": 52,
+                            "Description": "talent"
+                        },
+                        {
+                            "EventID": 52,
+                            "Description": "festival"
+                        },
+                        {
+                            "EventID": 52,
+                            "Description": "local"
+                        },
+                        {
+                            "EventID": 52,
+                            "Description": "month-long"
+                        },
+                        {
+                            "EventID": 52,
+                            "Description": "bijf"
+                        },
+                        {
+                            "EventID": 52,
+                            "Description": "performers"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 53,
+                    "PlanID": 53,
+                    "Link": "https://ra.co/events/1394364",
+                    "Title": "ALL DAY I DREAM",
+                    "StartTime": 14,
+                    "EndTime": 22,
+                    "Type": 2,
+                    "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO ☁️ Rescheduled to July 23rd, 2022 Fort York Toronto, Canada ☁️ All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+                    "Cost": 0,
+                    "Address": "Fort York National Historic Site, 250 Fort York Blvd;Toronto, ON, Canada",
+                    "Venue": "Fort York National Historic Site",
+                    "EventTagDes": [
+                        {
+                            "EventID": 53,
+                            "Description": "fort"
+                        },
+                        {
+                            "EventID": 53,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 53,
+                            "Description": "york"
+                        },
+                        {
+                            "EventID": 53,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 53,
+                            "Description": "day"
+                        },
+                        {
+                            "EventID": 53,
+                            "Description": "dream"
+                        },
+                        {
+                            "EventID": 53,
+                            "Description": "23rd"
+                        },
+                        {
+                            "EventID": 53,
+                            "Description": "july"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 54,
+                    "PlanID": 54,
+                    "Link": "",
+                    "Title": "The Curtain Club",
+                    "StartTime": 12.09,
+                    "EndTime": 15.39,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "Potsdamer Platz 3, 10785 Berlin, Germany",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 54,
+                            "Description": "bar"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 11.3,
+                    "StartEvent": "Beaches International Jazz Festival",
+                    "EndEvent": "ALL DAY I DREAM"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 19,
+            "PlanName": "test Plan",
+            "UID": 1,
+            "Time": "2022-10-01T20:22:50Z",
+            "Events": [
+                {
+                    "EventID": 55,
+                    "PlanID": 55,
+                    "Link": "some event link",
+                    "Title": "Sample Event 0",
+                    "StartTime": 20.22,
+                    "EndTime": 21.22,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 56,
+                    "PlanID": 56,
+                    "Link": "some event link",
+                    "Title": "Sample Event 1",
+                    "StartTime": 21.22,
+                    "EndTime": 22.22,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": [
+                        {
+                            "EventID": 56,
+                            "Description": "tag 1"
+                        },
+                        {
+                            "EventID": 56,
+                            "Description": "tag 2"
+                        },
+                        {
+                            "EventID": 56,
+                            "Description": "tag 3"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 57,
+                    "PlanID": 57,
+                    "Link": "some event link",
+                    "Title": "Sample Event 2",
+                    "StartTime": 22.22,
+                    "EndTime": 23.22,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": [
+                        {
+                            "EventID": 57,
+                            "Description": "tag 1"
+                        },
+                        {
+                            "EventID": 57,
+                            "Description": "tag 2"
+                        },
+                        {
+                            "EventID": 57,
+                            "Description": "tag 3"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 2,
+                    "StartEvent": "Sample Event 0",
+                    "EndEvent": "Sample Event 1"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 20,
+            "PlanName": "test Plan",
+            "UID": 1,
+            "Time": "2022-10-01T20:32:59Z",
+            "Events": [
+                {
+                    "EventID": 58,
+                    "PlanID": 58,
+                    "Link": "some event link",
+                    "Title": "Sample Event 0",
+                    "StartTime": 20.32,
+                    "EndTime": 21.32,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": [
+                        {
+                            "EventID": 58,
+                            "Description": "tag 1"
+                        },
+                        {
+                            "EventID": 58,
+                            "Description": "tag 2"
+                        },
+                        {
+                            "EventID": 58,
+                            "Description": "tag 3"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 59,
+                    "PlanID": 59,
+                    "Link": "some event link",
+                    "Title": "Sample Event 1",
+                    "StartTime": 21.32,
+                    "EndTime": 22.32,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": [
+                        {
+                            "EventID": 59,
+                            "Description": "tag 1"
+                        },
+                        {
+                            "EventID": 59,
+                            "Description": "tag 2"
+                        },
+                        {
+                            "EventID": 59,
+                            "Description": "tag 3"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 60,
+                    "PlanID": 60,
+                    "Link": "some event link",
+                    "Title": "Sample Event 2",
+                    "StartTime": 22.32,
+                    "EndTime": 23.32,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": [
+                        {
+                            "EventID": 60,
+                            "Description": "tag 1"
+                        },
+                        {
+                            "EventID": 60,
+                            "Description": "tag 2"
+                        },
+                        {
+                            "EventID": 60,
+                            "Description": "tag 3"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 2,
+                    "StartEvent": "Sample Event 0",
+                    "EndEvent": "Sample Event 1"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 21,
+            "PlanName": "test Plan",
+            "UID": 1,
+            "Time": "2022-10-01T20:33:56Z",
+            "Events": [
+                {
+                    "EventID": 61,
+                    "PlanID": 61,
+                    "Link": "some event link",
+                    "Title": "Sample Event 0",
+                    "StartTime": 20.33,
+                    "EndTime": 21.33,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": [
+                        {
+                            "EventID": 61,
+                            "Description": "tag 1"
+                        },
+                        {
+                            "EventID": 61,
+                            "Description": "tag 2"
+                        },
+                        {
+                            "EventID": 61,
+                            "Description": "tag 3"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 62,
+                    "PlanID": 62,
+                    "Link": "some event link",
+                    "Title": "Sample Event 1",
+                    "StartTime": 21.33,
+                    "EndTime": 22.33,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": [
+                        {
+                            "EventID": 62,
+                            "Description": "tag 1"
+                        },
+                        {
+                            "EventID": 62,
+                            "Description": "tag 2"
+                        },
+                        {
+                            "EventID": 62,
+                            "Description": "tag 3"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 63,
+                    "PlanID": 63,
+                    "Link": "some event link",
+                    "Title": "Sample Event 2",
+                    "StartTime": 22.33,
+                    "EndTime": 23.33,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": [
+                        {
+                            "EventID": 63,
+                            "Description": "tag 1"
+                        },
+                        {
+                            "EventID": 63,
+                            "Description": "tag 2"
+                        },
+                        {
+                            "EventID": 63,
+                            "Description": "tag 3"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 2,
+                    "StartEvent": "Sample Event 0",
+                    "EndEvent": "Sample Event 1"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 22,
+            "PlanName": "test Plan",
+            "UID": 1,
+            "Time": "2022-10-01T22:21:05Z",
+            "Events": [
+                {
+                    "EventID": 64,
+                    "PlanID": 64,
+                    "Link": "some event link",
+                    "Title": "Sample Event 0",
+                    "StartTime": 22.21,
+                    "EndTime": 23.21,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": [
+                        {
+                            "EventID": 64,
+                            "Description": "tag 1"
+                        },
+                        {
+                            "EventID": 64,
+                            "Description": "tag 2"
+                        },
+                        {
+                            "EventID": 64,
+                            "Description": "tag 3"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 65,
+                    "PlanID": 65,
+                    "Link": "some event link",
+                    "Title": "Sample Event 1",
+                    "StartTime": 23.21,
+                    "EndTime": 0.21,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": [
+                        {
+                            "EventID": 65,
+                            "Description": "tag 1"
+                        },
+                        {
+                            "EventID": 65,
+                            "Description": "tag 2"
+                        },
+                        {
+                            "EventID": 65,
+                            "Description": "tag 3"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 66,
+                    "PlanID": 66,
+                    "Link": "some event link",
+                    "Title": "Sample Event 2",
+                    "StartTime": 0.21,
+                    "EndTime": 1.21,
+                    "Type": 1,
+                    "Description": "some description",
+                    "Cost": 0,
+                    "Address": "some address;some city some country",
+                    "Venue": "some venue",
+                    "EventTagDes": [
+                        {
+                            "EventID": 66,
+                            "Description": "tag 1"
+                        },
+                        {
+                            "EventID": 66,
+                            "Description": "tag 2"
+                        },
+                        {
+                            "EventID": 66,
+                            "Description": "tag 3"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 2,
+                    "StartEvent": "Sample Event 0",
+                    "EndEvent": "Sample Event 1"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 23,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-19T13:00:00Z",
+            "Events": [
+                {
+                    "EventID": 67,
+                    "PlanID": 67,
+                    "Link": "",
+                    "Title": "Yorkdale Shopping Centre",
+                    "StartTime": 13,
+                    "EndTime": 16.39,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "3401 Dufferin St, Toronto, ON M6A 2T9, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 68,
+                    "PlanID": 68,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 14.57,
+                    "EndTime": 21.03,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 69,
+                    "PlanID": 69,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 21.16,
+                    "EndTime": 23.58,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": []
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 24,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-19T13:00:00Z",
+            "Events": [
+                {
+                    "EventID": 70,
+                    "PlanID": 70,
+                    "Link": "",
+                    "Title": "Yorkdale Shopping Centre",
+                    "StartTime": 13,
+                    "EndTime": 16.39,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "3401 Dufferin St, Toronto, ON M6A 2T9, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 71,
+                    "PlanID": 71,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 14.47,
+                    "EndTime": 21.03,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 72,
+                    "PlanID": 72,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 21.16,
+                    "EndTime": 23.58,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": []
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 25,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-19T15:00:00Z",
+            "Events": [
+                {
+                    "EventID": 73,
+                    "PlanID": 73,
+                    "Link": "",
+                    "Title": "Yorkdale Shopping Centre",
+                    "StartTime": 15,
+                    "EndTime": 18,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "3401 Dufferin St, Toronto, ON M6A 2T9, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 74,
+                    "PlanID": 74,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 16.14,
+                    "EndTime": 21.42,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 74,
+                            "Description": "bar"
+                        },
+                        {
+                            "EventID": 74,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 74,
+                            "Description": "establishment"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 75,
+                    "PlanID": 75,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 21.55,
+                    "EndTime": 23.58,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 75,
+                            "Description": "spa"
+                        },
+                        {
+                            "EventID": 75,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 75,
+                            "Description": "establishment"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 26,
+            "PlanName": "My Fun Trip Haha",
+            "UID": 1,
+            "Time": "2023-02-19T15:00:00Z",
+            "Events": [
+                {
+                    "EventID": 76,
+                    "PlanID": 76,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 15,
+                    "EndTime": 18,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 76,
+                            "Description": "spa"
+                        },
+                        {
+                            "EventID": 76,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 76,
+                            "Description": "establishment"
+                        },
+                        {
+                            "EventID": 76,
+                            "Description": "beauty_salon"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 77,
+                    "PlanID": 77,
+                    "Link": "",
+                    "Title": "The Happy Foot Spa",
+                    "StartTime": 16.08,
+                    "EndTime": 21,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "70 Yorkville Ave, Toronto, ON M5R 1B9, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 77,
+                            "Description": "spa"
+                        },
+                        {
+                            "EventID": 77,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 77,
+                            "Description": "establishment"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 78,
+                    "PlanID": 78,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 21.07,
+                    "EndTime": 23.58,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 78,
+                            "Description": "bar"
+                        },
+                        {
+                            "EventID": 78,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 78,
+                            "Description": "establishment"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 27,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-19T16:00:00Z",
+            "Events": [
+                {
+                    "EventID": 79,
+                    "PlanID": 79,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 12.55,
+                    "EndTime": 18.39,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 79,
+                            "Description": "spa"
+                        },
+                        {
+                            "EventID": 79,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 79,
+                            "Description": "establishment"
+                        },
+                        {
+                            "EventID": 79,
+                            "Description": "beauty_salon"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 80,
+                    "PlanID": 80,
+                    "Link": "",
+                    "Title": "Tasty Tours Toronto - Toronto Food Tours, Chocolate Tours & Virtual Chocolate Tastings",
+                    "StartTime": 18.51,
+                    "EndTime": 21.31,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "178 Baldwin St, Toronto, ON M5T 1L8, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 80,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 80,
+                            "Description": "establishment"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 81,
+                    "PlanID": 81,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 21.44,
+                    "EndTime": 23.58,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 81,
+                            "Description": "bar"
+                        },
+                        {
+                            "EventID": 81,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 81,
+                            "Description": "establishment"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 28,
+            "PlanName": "Trip to Hamilton",
+            "UID": 1,
+            "Time": "2023-02-19T15:24:24Z",
+            "Events": [
+                {
+                    "EventID": 82,
+                    "PlanID": 82,
+                    "Link": "link",
+                    "Title": "Test event",
+                    "StartTime": 15.24,
+                    "EndTime": 16.24,
+                    "Type": 1,
+                    "Description": "This is a test event",
+                    "Cost": 0,
+                    "Address": "252 philip; ",
+                    "Venue": "hello",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 83,
+                    "PlanID": 83,
+                    "Link": "link",
+                    "Title": "Test event",
+                    "StartTime": 17.24,
+                    "EndTime": 19.24,
+                    "Type": 1,
+                    "Description": "This is a test event",
+                    "Cost": 0,
+                    "Address": "252 philip; ",
+                    "Venue": "hello",
+                    "EventTagDes": []
+                },
+                {
+                    "EventID": 84,
+                    "PlanID": 84,
+                    "Link": "link",
+                    "Title": "Test event",
+                    "StartTime": 20.24,
+                    "EndTime": 23.24,
+                    "Type": 2,
+                    "Description": "This is a test event",
+                    "Cost": 0,
+                    "Address": "252 philip; ",
+                    "Venue": "hello",
+                    "EventTagDes": []
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": null,
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 29,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-19T16:00:00Z",
+            "Events": [
+                {
+                    "EventID": 85,
+                    "PlanID": 85,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 16,
+                    "EndTime": 18.39,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 85,
+                            "Description": "spa"
+                        },
+                        {
+                            "EventID": 85,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 85,
+                            "Description": "establishment"
+                        },
+                        {
+                            "EventID": 85,
+                            "Description": "beauty_salon"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 86,
+                    "PlanID": 86,
+                    "Link": "",
+                    "Title": "Speed Learning Academy",
+                    "StartTime": 18.53,
+                    "EndTime": 21.33,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "197 Yonge St Unit 1913, Toronto, ON M5B 0C1, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 86,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 86,
+                            "Description": "establishment"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 87,
+                    "PlanID": 87,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 21.46,
+                    "EndTime": 23.58,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 87,
+                            "Description": "bar"
+                        },
+                        {
+                            "EventID": 87,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 87,
+                            "Description": "establishment"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 2479,
+                    "StartEvent": "Spa at Four Seasons Toronto",
+                    "EndEvent": "Speed Learning Academy"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 30,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-19T17:00:00Z",
+            "Events": [
+                {
+                    "EventID": 88,
+                    "PlanID": 88,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 16.15,
+                    "EndTime": 19.19,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 88,
+                            "Description": "spa"
+                        },
+                        {
+                            "EventID": 88,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 88,
+                            "Description": "establishment"
+                        },
+                        {
+                            "EventID": 88,
+                            "Description": "beauty_salon"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 89,
+                    "PlanID": 89,
+                    "Link": "",
+                    "Title": "The Centre for Middle Eastern Studies and Languages",
+                    "StartTime": 20.03,
+                    "EndTime": 21.53,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "427 Bloor St W Suite B2, Toronto, ON M5S 1X6, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 89,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 89,
+                            "Description": "establishment"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 90,
+                    "PlanID": 90,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 22.26,
+                    "EndTime": 23.58,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 90,
+                            "Description": "bar"
+                        },
+                        {
+                            "EventID": 90,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 90,
+                            "Description": "establishment"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 2085,
+                    "StartEvent": "Spa at Four Seasons Toronto",
+                    "EndEvent": "The Centre for Middle Eastern Studies and Languages"
+                },
+                {
+                    "Duration": 7031,
+                    "StartEvent": "The Centre for Middle Eastern Studies and Languages",
+                    "EndEvent": "The Drink - Cocktail & Pizza Bar"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 31,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-19T17:00:00Z",
+            "Events": [
+                {
+                    "EventID": 91,
+                    "PlanID": 91,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 15.47,
+                    "EndTime": 19.19,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 91,
+                            "Description": "spa"
+                        },
+                        {
+                            "EventID": 91,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 91,
+                            "Description": "establishment"
+                        },
+                        {
+                            "EventID": 91,
+                            "Description": "beauty_salon"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 92,
+                    "PlanID": 92,
+                    "Link": "",
+                    "Title": "The Happy Foot Spa",
+                    "StartTime": 19.19,
+                    "EndTime": 21.39,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "70 Yorkville Ave, Toronto, ON M5R 1B9, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 92,
+                            "Description": "spa"
+                        },
+                        {
+                            "EventID": 92,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 92,
+                            "Description": "establishment"
+                        },
+                        {
+                            "EventID": 92,
+                            "Description": "health"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 93,
+                    "PlanID": 93,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 21.53,
+                    "EndTime": 23.58,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 93,
+                            "Description": "bar"
+                        },
+                        {
+                            "EventID": 93,
+                            "Description": "point_of_interest"
+                        },
+                        {
+                            "EventID": 93,
+                            "Description": "establishment"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 0,
+                    "StartEvent": "Spa at Four Seasons Toronto",
+                    "EndEvent": "The Happy Foot Spa"
+                },
+                {
+                    "Duration": 2100,
+                    "StartEvent": "The Happy Foot Spa",
+                    "EndEvent": "The Drink - Cocktail & Pizza Bar"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 32,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-19T19:00:00Z",
+            "Events": [
+                {
+                    "EventID": 94,
+                    "PlanID": 94,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 19,
+                    "EndTime": 21.3,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 94,
+                            "Description": "bar"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 95,
+                    "PlanID": 95,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 21.42,
+                    "EndTime": 23.58,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 95,
+                            "Description": "spa"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 2,
+            "Transportation": [
+                {
+                    "Duration": 1949,
+                    "StartEvent": "The Drink - Cocktail & Pizza Bar",
+                    "EndEvent": "Spa at Four Seasons Toronto"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 33,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-20T15:30:00Z",
+            "Events": [
+                {
+                    "EventID": 96,
+                    "PlanID": 96,
+                    "Link": "",
+                    "Title": "Tommy Thompson Park",
+                    "StartTime": 12.16,
+                    "EndTime": 15,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "1 Leslie St, Toronto, ON M4M 3M2, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 96,
+                            "Description": "Immerse in nature"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 97,
+                    "PlanID": 97,
+                    "Link": "https://cdss.org/event/tecda-friday-night-dance/2024-02-02/",
+                    "Title": "TECDA Friday Night Dance",
+                    "StartTime": 18.14,
+                    "EndTime": 20.59,
+                    "Type": 2,
+                    "Description": "Please join TECDA for our weekly Friday Night Dance with our talented callers. We are located in Toronto, Ontario, Canada and we dance every Friday night. To get onto the […]",
+                    "Cost": 0,
+                    "Address": "[Ralph Thornton Community Centre, 765 Queen St E, Toronto, ON, Canada]; ",
+                    "Venue": "Ralph Thornton Community Centre",
+                    "EventTagDes": [
+                        {
+                            "EventID": 97,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 97,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 97,
+                            "Description": "talented"
+                        },
+                        {
+                            "EventID": 97,
+                            "Description": "callers"
+                        },
+                        {
+                            "EventID": 97,
+                            "Description": "ontario"
+                        },
+                        {
+                            "EventID": 97,
+                            "Description": "dance"
+                        },
+                        {
+                            "EventID": 97,
+                            "Description": "night"
+                        },
+                        {
+                            "EventID": 97,
+                            "Description": "weekly"
+                        },
+                        {
+                            "EventID": 97,
+                            "Description": "friday"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 98,
+                    "PlanID": 98,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 15.55,
+                    "EndTime": 17.56,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 98,
+                            "Description": "spa"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 0,
+                    "StartEvent": "Tommy Thompson Park",
+                    "EndEvent": "TECDA Friday Night Dance"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 34,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-20T14:30:00Z",
+            "Events": [
+                {
+                    "EventID": 99,
+                    "PlanID": 99,
+                    "Link": "",
+                    "Title": "HIGHER",
+                    "StartTime": 14.3,
+                    "EndTime": 17.39,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "493A Dundas St W, Toronto, ON M5T 1H1, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 99,
+                            "Description": "Surprise Me"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 100,
+                    "PlanID": 100,
+                    "Link": "https://cdss.org/event/tecda-friday-night-dance/2024-02-02/",
+                    "Title": "TECDA Friday Night Dance",
+                    "StartTime": 18.08,
+                    "EndTime": 21.18,
+                    "Type": 2,
+                    "Description": "Please join TECDA for our weekly Friday Night Dance with our talented callers. We are located in Toronto, Ontario, Canada and we dance every Friday night. To get onto the […]",
+                    "Cost": 0,
+                    "Address": "[Ralph Thornton Community Centre, 765 Queen St E, Toronto, ON, Canada]; ",
+                    "Venue": "Ralph Thornton Community Centre",
+                    "EventTagDes": [
+                        {
+                            "EventID": 100,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 100,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 100,
+                            "Description": "talented"
+                        },
+                        {
+                            "EventID": 100,
+                            "Description": "callers"
+                        },
+                        {
+                            "EventID": 100,
+                            "Description": "ontario"
+                        },
+                        {
+                            "EventID": 100,
+                            "Description": "dance"
+                        },
+                        {
+                            "EventID": 100,
+                            "Description": "night"
+                        },
+                        {
+                            "EventID": 100,
+                            "Description": "weekly"
+                        },
+                        {
+                            "EventID": 100,
+                            "Description": "friday"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 101,
+                    "PlanID": 101,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 21.46,
+                    "EndTime": 23.58,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 101,
+                            "Description": "spa"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 4604,
+                    "StartEvent": "HIGHER",
+                    "EndEvent": "TECDA Friday Night Dance"
+                },
+                {
+                    "Duration": 3828,
+                    "StartEvent": "TECDA Friday Night Dance",
+                    "EndEvent": "Spa at Four Seasons Toronto"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 35,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-20T15:30:00Z",
+            "Events": [
+                {
+                    "EventID": 102,
+                    "PlanID": 102,
+                    "Link": "",
+                    "Title": "HIGHER",
+                    "StartTime": 15.3,
+                    "EndTime": 18.3,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "493A Dundas St W, Toronto, ON M5T 1H1, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 102,
+                            "Description": "Surprise Me"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 103,
+                    "PlanID": 103,
+                    "Link": "https://cdss.org/event/tecda-friday-night-dance/2024-02-02/",
+                    "Title": "TECDA Friday Night Dance",
+                    "StartTime": 19,
+                    "EndTime": 21,
+                    "Type": 2,
+                    "Description": "Please join TECDA for our weekly Friday Night Dance with our talented callers. We are located in Toronto, Ontario, Canada and we dance every Friday night. To get onto the […]",
+                    "Cost": 0,
+                    "Address": "[Ralph Thornton Community Centre, 765 Queen St E, Toronto, ON, Canada]; ",
+                    "Venue": "Ralph Thornton Community Centre",
+                    "EventTagDes": [
+                        {
+                            "EventID": 103,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 103,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 103,
+                            "Description": "talented"
+                        },
+                        {
+                            "EventID": 103,
+                            "Description": "callers"
+                        },
+                        {
+                            "EventID": 103,
+                            "Description": "ontario"
+                        },
+                        {
+                            "EventID": 103,
+                            "Description": "dance"
+                        },
+                        {
+                            "EventID": 103,
+                            "Description": "night"
+                        },
+                        {
+                            "EventID": 103,
+                            "Description": "weekly"
+                        },
+                        {
+                            "EventID": 103,
+                            "Description": "friday"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 104,
+                    "PlanID": 104,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 0,
+                    "EndTime": 0,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 104,
+                            "Description": "bar"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 3828,
+                    "StartEvent": "HIGHER",
+                    "EndEvent": "TECDA Friday Night Dance"
+                },
+                {
+                    "Duration": 4913,
+                    "StartEvent": "TECDA Friday Night Dance",
+                    "EndEvent": "The Drink - Cocktail & Pizza Bar"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 36,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-20T15:30:00Z",
+            "Events": [
+                {
+                    "EventID": 105,
+                    "PlanID": 105,
+                    "Link": "",
+                    "Title": "Four Seasons Centre for the Performing Arts",
+                    "StartTime": 15.3,
+                    "EndTime": 18.35,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "145 Queen St W, Toronto, ON M5H 4G1, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 105,
+                            "Description": "See a show"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 106,
+                    "PlanID": 106,
+                    "Link": "https://cdss.org/event/tecda-friday-night-dance/2024-02-02/",
+                    "Title": "TECDA Friday Night Dance",
+                    "StartTime": 19,
+                    "EndTime": 21,
+                    "Type": 2,
+                    "Description": "Please join TECDA for our weekly Friday Night Dance with our talented callers. We are located in Toronto, Ontario, Canada and we dance every Friday night. To get onto the […]",
+                    "Cost": 0,
+                    "Address": "[Ralph Thornton Community Centre, 765 Queen St E, Toronto, ON, Canada]; ",
+                    "Venue": "Ralph Thornton Community Centre",
+                    "EventTagDes": [
+                        {
+                            "EventID": 106,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 106,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 106,
+                            "Description": "talented"
+                        },
+                        {
+                            "EventID": 106,
+                            "Description": "callers"
+                        },
+                        {
+                            "EventID": 106,
+                            "Description": "ontario"
+                        },
+                        {
+                            "EventID": 106,
+                            "Description": "dance"
+                        },
+                        {
+                            "EventID": 106,
+                            "Description": "night"
+                        },
+                        {
+                            "EventID": 106,
+                            "Description": "weekly"
+                        },
+                        {
+                            "EventID": 106,
+                            "Description": "friday"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 107,
+                    "PlanID": 107,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 21.28,
+                    "EndTime": 23.58,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 107,
+                            "Description": "spa"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 2295,
+                    "StartEvent": "Four Seasons Centre for the Performing Arts",
+                    "EndEvent": "TECDA Friday Night Dance"
+                },
+                {
+                    "Duration": 5162,
+                    "StartEvent": "TECDA Friday Night Dance",
+                    "EndEvent": "Spa at Four Seasons Toronto"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 37,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-20T15:30:00Z",
+            "Events": [
+                {
+                    "EventID": 108,
+                    "PlanID": 108,
+                    "Link": "",
+                    "Title": "Tasty Tours Toronto - Toronto Food Tours, Chocolate Tours & Virtual Chocolate Tastings",
+                    "StartTime": 11.55,
+                    "EndTime": 14.55,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "178 Baldwin St, Toronto, ON M5T 1L8, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 108,
+                            "Description": "Go on a food tour"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 109,
+                    "PlanID": 109,
+                    "Link": "https://cdss.org/event/tecda-friday-night-dance/2024-02-02/",
+                    "Title": "TECDA Friday Night Dance",
+                    "StartTime": 19,
+                    "EndTime": 21,
+                    "Type": 2,
+                    "Description": "Please join TECDA for our weekly Friday Night Dance with our talented callers. We are located in Toronto, Ontario, Canada and we dance every Friday night. To get onto the […]",
+                    "Cost": 0,
+                    "Address": "[Ralph Thornton Community Centre, 765 Queen St E, Toronto, ON, Canada]; ",
+                    "Venue": "Ralph Thornton Community Centre",
+                    "EventTagDes": [
+                        {
+                            "EventID": 109,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 109,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 109,
+                            "Description": "talented"
+                        },
+                        {
+                            "EventID": 109,
+                            "Description": "callers"
+                        },
+                        {
+                            "EventID": 109,
+                            "Description": "ontario"
+                        },
+                        {
+                            "EventID": 109,
+                            "Description": "dance"
+                        },
+                        {
+                            "EventID": 109,
+                            "Description": "night"
+                        },
+                        {
+                            "EventID": 109,
+                            "Description": "weekly"
+                        },
+                        {
+                            "EventID": 109,
+                            "Description": "friday"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 110,
+                    "PlanID": 110,
+                    "Link": "",
+                    "Title": "Spa at Four Seasons Toronto",
+                    "StartTime": 15.43,
+                    "EndTime": 18.13,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "60 Yorkville Ave, Toronto, ON M4W 0A4, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 110,
+                            "Description": "spa"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 3084,
+                    "StartEvent": "Tasty Tours Toronto - Toronto Food Tours, Chocolate Tours & Virtual Chocolate Tastings",
+                    "EndEvent": "TECDA Friday Night Dance"
+                },
+                {
+                    "Duration": 5162,
+                    "StartEvent": "TECDA Friday Night Dance",
+                    "EndEvent": "Spa at Four Seasons Toronto"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 38,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-20T15:30:00Z",
+            "Events": [
+                {
+                    "EventID": 111,
+                    "PlanID": 111,
+                    "Link": "",
+                    "Title": "Tasty Tours Toronto - Toronto Food Tours, Chocolate Tours & Virtual Chocolate Tastings",
+                    "StartTime": 12.01,
+                    "EndTime": 14.59,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "178 Baldwin St, Toronto, ON M5T 1L8, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 111,
+                            "Description": "Go on a food tour"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 112,
+                    "PlanID": 112,
+                    "Link": "https://cdss.org/event/tecda-friday-night-dance/2024-02-02/",
+                    "Title": "TECDA Friday Night Dance",
+                    "StartTime": 19,
+                    "EndTime": 21,
+                    "Type": 2,
+                    "Description": "Please join TECDA for our weekly Friday Night Dance with our talented callers. We are located in Toronto, Ontario, Canada and we dance every Friday night. To get onto the […]",
+                    "Cost": 0,
+                    "Address": "[Ralph Thornton Community Centre, 765 Queen St E, Toronto, ON, Canada]; ",
+                    "Venue": "Ralph Thornton Community Centre",
+                    "EventTagDes": [
+                        {
+                            "EventID": 112,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 112,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 112,
+                            "Description": "talented"
+                        },
+                        {
+                            "EventID": 112,
+                            "Description": "callers"
+                        },
+                        {
+                            "EventID": 112,
+                            "Description": "ontario"
+                        },
+                        {
+                            "EventID": 112,
+                            "Description": "dance"
+                        },
+                        {
+                            "EventID": 112,
+                            "Description": "night"
+                        },
+                        {
+                            "EventID": 112,
+                            "Description": "weekly"
+                        },
+                        {
+                            "EventID": 112,
+                            "Description": "friday"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 113,
+                    "PlanID": 113,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 15.48,
+                    "EndTime": 18.23,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 113,
+                            "Description": "bar"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 3084,
+                    "StartEvent": "Tasty Tours Toronto - Toronto Food Tours, Chocolate Tours & Virtual Chocolate Tastings",
+                    "EndEvent": "TECDA Friday Night Dance"
+                },
+                {
+                    "Duration": 4604,
+                    "StartEvent": "TECDA Friday Night Dance",
+                    "EndEvent": "The Drink - Cocktail & Pizza Bar"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        },
+        {
+            "PlanID": 39,
+            "PlanName": "My Fun Trip",
+            "UID": 1,
+            "Time": "2023-02-20T15:30:00Z",
+            "Events": [
+                {
+                    "EventID": 114,
+                    "PlanID": 114,
+                    "Link": "",
+                    "Title": "Sweetgrass Spa Toronto",
+                    "StartTime": 0,
+                    "EndTime": 0,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "111e Queen St E, Toronto, ON M5C 1S5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 114,
+                            "Description": "spa"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 115,
+                    "PlanID": 115,
+                    "Link": "https://cdss.org/event/tecda-friday-night-dance/2024-02-02/",
+                    "Title": "TECDA Friday Night Dance",
+                    "StartTime": 19,
+                    "EndTime": 21,
+                    "Type": 2,
+                    "Description": "Please join TECDA for our weekly Friday Night Dance with our talented callers. We are located in Toronto, Ontario, Canada and we dance every Friday night. To get onto the […]",
+                    "Cost": 0,
+                    "Address": "[Ralph Thornton Community Centre, 765 Queen St E, Toronto, ON, Canada]; ",
+                    "Venue": "Ralph Thornton Community Centre",
+                    "EventTagDes": [
+                        {
+                            "EventID": 115,
+                            "Description": "toronto"
+                        },
+                        {
+                            "EventID": 115,
+                            "Description": "canada"
+                        },
+                        {
+                            "EventID": 115,
+                            "Description": "talented"
+                        },
+                        {
+                            "EventID": 115,
+                            "Description": "callers"
+                        },
+                        {
+                            "EventID": 115,
+                            "Description": "ontario"
+                        },
+                        {
+                            "EventID": 115,
+                            "Description": "dance"
+                        },
+                        {
+                            "EventID": 115,
+                            "Description": "night"
+                        },
+                        {
+                            "EventID": 115,
+                            "Description": "weekly"
+                        },
+                        {
+                            "EventID": 115,
+                            "Description": "friday"
+                        }
+                    ]
+                },
+                {
+                    "EventID": 116,
+                    "PlanID": 116,
+                    "Link": "",
+                    "Title": "The Drink - Cocktail & Pizza Bar",
+                    "StartTime": 15.48,
+                    "EndTime": 18.23,
+                    "Type": 1,
+                    "Description": "",
+                    "Cost": 0,
+                    "Address": "459 Church St 2nd floor, Toronto, ON M4Y 2C5, Canada; ",
+                    "Venue": "",
+                    "EventTagDes": [
+                        {
+                            "EventID": 116,
+                            "Description": "bar"
+                        }
+                    ]
+                }
+            ],
+            "EventNum": 3,
+            "Transportation": [
+                {
+                    "Duration": 3625,
+                    "StartEvent": "Sweetgrass Spa Toronto",
+                    "EndEvent": "TECDA Friday Night Dance"
+                },
+                {
+                    "Duration": 0,
+                    "StartEvent": "TECDA Friday Night Dance",
+                    "EndEvent": "The Drink - Cocktail & Pizza Bar"
+                }
+            ],
+            "Photo": "",
+            "Country": "",
+            "Location": ""
+        }
+    ],
+    "success": true,
+    "user": {
+        "UID": 1,
+        "Preferences": null,
+        "Plans": null,
+        "Name": "second",
+        "Email": "xxx@xxx.com",
+        "UserName": "jane",
+        "Password": "123fjkdlfds",
+        "Birthday": "2006-01-01T00:00:00Z",
+        "Gender": 1,
+        "PhotoUrl": "",
+        "Occupation": ""
+    }
+}

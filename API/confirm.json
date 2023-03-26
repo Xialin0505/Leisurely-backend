@@ -1,0 +1,68 @@
+{
+    "UID": 1,
+    "Time": "2022-09-25T15:04:05Z",
+    "Events": [
+        {
+            "Type": 2,
+            "Title": "Beaches International Jazz Festival",
+            "Link": "https://directory.ontariovisited.ca/events/toronto-1/festivals-events/32-annual-beaches-international-jazz-festival/",
+            "Description": "[vc_row][vc_column][vc_column_text] Beaches International Jazz Festival July 21 - 23, 2022 Jazz takes centre stage during this lakeside Beaches community event celebrating its 34th year...",
+            "Address": [
+                "Woodbine Park, 1695 Queen St E",
+                "Toronto, ON, Canada"
+            ],
+            "Venue": "Woodbine Park",
+            "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPDMtbLmsSO7jW_wpjHXFSCCj4NTA6BCT_iWRqUTtadw&s=10",
+            "StartTime": 8.3,
+            "EndTime": 12,
+            "EventTags": [
+                "year",
+                "jazz",
+                "talent",
+                "music",
+                "festival",
+                "local",
+                "month-long",
+                "bijf",
+                "performers"
+            ]
+        },
+        {
+            "Title": "ALL DAY I DREAM",
+            "Type": 2,
+            "Link": "https://ra.co/events/1394364",
+            "Description": "ALL DAY I DREAM OF TERRIFIC TORONTO \u2601\ufe0f Rescheduled to July 23rd, 2022 Fort York Toronto, Canada \u2601\ufe0f All Day I Dream loves Canada (and, secretly, we know you love us too). We're really excited to be...",
+            "Address": [
+                "Fort York National Historic Site, 250 Fort York Blvd",
+                "Toronto, ON, Canada"
+            ],
+            "Venue": "Fort York National Historic Site",
+            "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2z6LQvlWXxXn3-pckXIENE9J2aMX-ijxcd7EvzV2VCylYmjUv0UFF88s61Q&s=10",
+            "StartTime": 14,
+            "EndTime": 18,
+            "EventTags": [
+                "fort",
+                "toronto",
+                "york",
+                "canada",
+                "day",
+                "dream",
+                "23rd",
+                "july"
+            ]
+        },
+        {
+            "Address": ["Potsdamer Platz 3, 10785 Berlin, Germany"],
+            "Title": "The Curtain Club",
+            "Score": 1,
+            "EventTags": ["bar"],
+            "Type": 1,
+            "StartTime": 12.09,
+            "EndTime": 15.39
+        }
+    ],
+    "Transport": [
+        11.3,
+        12
+    ]
+}

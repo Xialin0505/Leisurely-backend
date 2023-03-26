@@ -1,0 +1,42 @@
+{
+    "html_attributions" : [],
+    "results" : [
+       {
+          "formatted_address" : "Toronto, ON, Canada",
+          "geometry" : {
+             "location" : {
+                "lat" : 43.653226,
+                "lng" : -79.3831843
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 43.8554579,
+                   "lng" : -79.1168971
+                },
+                "southwest" : {
+                   "lat" : 43.5810245,
+                   "lng" : -79.639219
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Toronto",
+          "photos" : [
+             {
+                "height" : 3456,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114513632365597978861\"\u003eAlex Avedessian\u003c/a\u003e"
+                ],
+                "photo_reference" : "AeJbb3dPconqR-botsVpSV1D6L--L9N5OwFVrML3QJwjTLiXklAVlqvjfc2fSe2O4ER9dp9QLTW2yVOJttJhF90y-SrP4x3oNU_6dHDWfZLwuLrtXC5MQ8UOMsOBJ5nlDvQA3UIbJf60J9PStkDohfTLYwzYw9ARC9n554xShJFrcQtB6zDM",
+                "width" : 5184
+             }
+          ],
+          "place_id" : "ChIJpTvG15DL1IkRd8S0KlBVNTI",
+          "reference" : "ChIJpTvG15DL1IkRd8S0KlBVNTI",
+          "types" : [ "locality", "political" ]
+       }
+    ],
+    "status" : "OK"
+ }
